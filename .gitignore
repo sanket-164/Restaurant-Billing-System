@@ -1,0 +1,18 @@
+# Java build
+*.class
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
